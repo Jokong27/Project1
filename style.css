@@ -130,6 +130,10 @@
     .main_text {
         font-size: 65px;
     }
+    .display {
+        margin-top: -165px;
+        font-size: 45px;
+    }
 
 }
 
